@@ -6,7 +6,7 @@ Website company profile responsif dengan desain premium, warna navy dan emas. Me
 - `index.html` — konten website
 - `styles.css` — desain responsif
 - `script.js` — kontak resmi dan menu mobile
-- `assets/logo-placeholder.svg` — logo sementara, ganti dengan logo resmi
+- `assets/logo-surya-mas-energy.jpg` — logo sementara, ganti dengan logo resmi
 - `assets/favicon.svg` — ikon tab browser
 
 ## Kontak yang telah dipasang
@@ -14,7 +14,7 @@ Website company profile responsif dengan desain premium, warna navy dan emas. Me
 - Email: cv.sme41@yahoo.com
 
 ## Sebelum dipublikasikan
-1. Ganti `assets/logo-placeholder.svg` dengan logo resmi. Bila file logo bernama lain, ubah sumber gambar `assets/logo-placeholder.svg` pada dua tempat di `index.html` menjadi nama file yang benar.
+1. Ganti `assets/logo-surya-mas-energy.jpg` dengan logo resmi. Bila file logo bernama lain, ubah sumber gambar `assets/logo-surya-mas-energy.jpg` pada dua tempat di `index.html` menjadi nama file yang benar.
 2. Periksa kembali semua teks, terutama ejaan nama, legalitas, dan uraian layanan.
 3. Bila tersedia, tambahkan foto proyek, sertifikasi, dan informasi legalitas yang boleh dipublikasikan.
 
